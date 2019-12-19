@@ -1,0 +1,74 @@
+{
+    "name": "GaggleAMP",
+    "description": "GaggleAMP is an employee advocacy solution that helps companies amplify reach and marketing efforts by tapping into the passion of employees and stakeholders.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/800-gaggleamp.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "social",
+        "social sharing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gaggleamp\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GaggleAMP",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/800-gaggleamp.jpg",
+            "humanURL": "https:\/\/www.gaggleamp.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gaggleamp-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/gaggleamp.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/gaggleamp.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gaggleamp"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gaggleamp"
+        },
+        {
+            "type": "Email",
+            "url": "sales@gaggleamp.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@gaggleamp.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@gaggleamp.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/GaggleAMP"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/GaggleAMP"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.gaggleamp.com\/"
+        }
+    ]
+}
